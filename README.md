@@ -1,4 +1,4 @@
-# OpenCore - Hackintosh-Intel-i7-10700K-Gigabyte-Z490-UD (With IGPU using HDMI Port)
+# OpenCore - Hackintosh Intel i7-10700K Gigabyte Z490 UD (With IGPU using HDMI Port)
 
 ![About this mac](/img/Screenshot2020-08-20at2.35.25AM.png)
 
@@ -9,7 +9,7 @@ Manage to successfully installed MacOS Catalina 10.15.6 on Gigabyte Z490 UD **wi
 https://dortania.github.io/OpenCore-Install-Guide/
 
 # Hardware
-- Processor: Intel i7 10700k
+- Processor: Intel i7-10700k
 - GPU: Intel UHD Graphics 630
 - Mobo: Gigabyte Z490 UD
 - SSD: Western Digital Black M.2 NVME 1TB
