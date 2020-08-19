@@ -1,6 +1,6 @@
 # Hackintosh-Intel-i7-10700K-Gigabyte-Z490-UD
 
-![About this mac](/img/"Screenshot 2020-08-20 at 2.35.25 AM.png")
+![About this mac](/img/Screenshot2020-08-20at2.35.25AM.png)
 
 # Summary
 Manage to successfully installed MacOS Catalina 10.15.6 on Gigabyte Z490 UD **without** a dedicated graphic cards (Intel UHD Graphics 630) **using HDMI port**
