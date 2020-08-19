@@ -23,7 +23,7 @@ To Be Update
 - [x] **Wifi and Bluetooth** - Even with incomplete bluetooth patch (did not fix it in current EFI, do refer -  if required to fix it)
 - [x] **Audio** - Front analog output working only - both input and output
 - [x] **USB** - All port working (2.0, 3.0, 3.1), did not test transfer speed
-- [x] **iGPU UHD630 with HDMI-output**
+- [x] **iGPU UHD630 with HDMI-output** - Currently on 2k resolution
 - [x] **Sleep/Wake**
 - [x] **Shutdown**
 - [x] **Restart**
