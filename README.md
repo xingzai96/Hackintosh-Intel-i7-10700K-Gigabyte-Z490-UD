@@ -42,4 +42,4 @@ To Be Update
 
 # Credits
 - https://dortania.github.io/OpenCore-Install-Guide/ (For general Guidance)
-- https://github.com/georgetree/hackintosh-10700k-Gigabyte-Z490-Vision-g (For IGPU HDMI Frambuffer Patch fix)
+- https://github.com/georgetree/hackintosh-10700k-Gigabyte-Z490-Vision-g (For IGPU HDMI Framebuffer Patch fix)
