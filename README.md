@@ -1,4 +1,4 @@
-# Hackintosh-Intel-i7-10700K-Gigabyte-Z490-UD
+# Hackintosh-Intel-i7-10700K-Gigabyte-Z490-UD (Using IGPU wiht HDMI Port)
 
 ![About this mac](/img/Screenshot2020-08-20at2.35.25AM.png)
 
@@ -23,7 +23,7 @@ To Be Update
 - [x] **Wifi and Bluetooth** - Even with incomplete bluetooth patch (did not fix it in current EFI, do refer -  if required to fix it)
 - [x] **Audio** - Front analog output working only - both input and output
 - [x] **USB** - All port working (2.0, 3.0, 3.1), did not test transfer speed
-- [x] **iGPU UHD630 with HDMI-output** - Currently on 2k resolution
+- [x] **iGPU UHD630 with HDMI-output** - Currently on 2k resolution, Able to play smoothly on full hd resolution for Starcraft 2 and Dota 2
 - [x] **Sleep/Wake**
 - [x] **Shutdown**
 - [x] **Restart**
@@ -40,3 +40,6 @@ To Be Update
 # Benchmarks
 To Be Update
 
+# Credits
+- https://dortania.github.io/OpenCore-Install-Guide/ (For general Guidance)
+- https://github.com/georgetree/hackintosh-10700k-Gigabyte-Z490-Vision-g (For IGPU HDMI Frambuffer Patch fix)
