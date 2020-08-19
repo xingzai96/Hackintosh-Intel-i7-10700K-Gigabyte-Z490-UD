@@ -20,7 +20,7 @@ https://dortania.github.io/OpenCore-Install-Guide/
 To Be Update
 
 # Working
-- [x] **Wifi and Bluetooth** - Even with incomplete bluetooth patch (did not fix it in current EFI, do refer -  if required to fix it)
+- [x] **Wifi and Bluetooth** - Even with incomplete bluetooth patch (did not fix it in current EFI, do refer - https://dortania.github.io/OpenCore-Install-Guide/ktext.html#wifi-and-bluetooth if required to do it properly)
 - [x] **Audio** - Front analog output working only - both input and output
 - [x] **USB** - All port working (2.0, 3.0, 3.1), did not test transfer speed
 - [x] **iGPU UHD630 with HDMI-output** - Currently on 2k resolution, Able to play smoothly on full hd resolution for Starcraft 2 and Dota 2
