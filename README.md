@@ -1,4 +1,4 @@
-# Hackintosh-Intel-i7-10700K-Gigabyte-Z490-UD (Using IGPU with HDMI Port)
+# OpenCore - Hackintosh-Intel-i7-10700K-Gigabyte-Z490-UD (With IGPU using HDMI Port)
 
 ![About this mac](/img/Screenshot2020-08-20at2.35.25AM.png)
 
