@@ -3,7 +3,7 @@
 ![About this mac](/img/Screenshot2020-08-20at2.35.25AM.png)
 
 # Summary
-Manage to successfully installed MacOS Catalina 10.15.6 on Gigabyte Z490 UD **without** a dedicated graphic cards (Intel UHD Graphics 630) **using HDMI port**
+Manage to successfully installed MacOS Catalina 10.15.6 on Gigabyte Z490 UD **with** Intel UHD Graphics 630 **using HDMI port** (**without** a dedicated graphic cards)
 
 # Tutorial I Followed
 https://dortania.github.io/OpenCore-Install-Guide/ (Remember to update the EFI with ur own generated serial number)
